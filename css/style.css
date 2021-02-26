@@ -1,0 +1,14 @@
+/* HEADER  */
+/* top-navbar  */
+.center-nav {
+    text-align: right;
+}
+
+.center-nav li,.col-lg-2 li {
+    list-style-type: none;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+/* end top-navbar  */
+/* END HEADER  */
