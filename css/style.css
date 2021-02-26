@@ -26,12 +26,14 @@
     text-align: right;
     padding: 0 10px;
 }
+/* end top-navbar  */
 
 /* jumbotron  */
 .jumbotron {
     height: 550px;
     background-image: url(../img/hero-bg.jpg);
     position: relative;
+    margin-bottom: 30px;
 }
 
 .jumbotron-title {
@@ -52,5 +54,30 @@
     padding-bottom: 20px;
 }
 /* end jumbotron  */
-/* end top-navbar  */
 /* END HEADER  */
+
+/* MAIN  */
+
+/* top-main-section  */
+.product {
+    text-align: center;
+    background-color: #fafafa;
+    padding: 10px;
+}
+
+.product h2,p {
+    padding: 10px;
+}
+
+.product a {
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.product img {
+    width: 100%;
+}
+
+
+/* end top-main-section  */
+/* END MAIN  */
