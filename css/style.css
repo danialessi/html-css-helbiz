@@ -59,10 +59,13 @@
 /* MAIN  */
 
 /* top-main-section  */
+.product-padding {
+    padding: 10px;
+}
+
 .product {
     text-align: center;
     background-color: #fafafa;
-    padding: 10px;
 }
 
 .product h2,p {
