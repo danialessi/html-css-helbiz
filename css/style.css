@@ -68,7 +68,7 @@
     background-color: #fafafa;
 }
 
-.product h2,p {
+.product h2,.product p {
     padding: 10px;
 }
 
@@ -80,7 +80,29 @@
 .product img {
     width: 100%;
 }
-
-
 /* end top-main-section  */
+
+/* iphone section  */
+.iphone-banner {
+    height: 500px;
+    width: 100%;
+    background-image: url(../img/HelbizBanner.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.iphone-banner img {
+    height: 600px;
+    padding-top: 100px;
+}
+
+.iphone-section {
+    text-align: left;
+}
+
+.iphone-section h3 {
+    font-size: 30px;
+}
+/* end iphone section  */
 /* END MAIN  */
